@@ -1,0 +1,31 @@
+header, main{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+button{ 
+    width: 80px;
+    background-color: rgb(241, 241, 129);
+    border-radius: 10px;
+    cursor: pointer;
+    width: 85px;
+    height: 30px;}
+
+
+button:hover{ 
+   background-color: rgb(225, 244, 57); 
+}   
+
+button:active{
+    color: rgb(225, 228, 160);
+    background-color: rgb(122, 122, 0);
+
+}
+
+h1{ font-size: 40px;
+    color: rgb(9, 10, 120);
+    
+    
+    
+}
